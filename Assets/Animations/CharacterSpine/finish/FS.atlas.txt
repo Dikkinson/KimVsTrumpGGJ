@@ -1,0 +1,62 @@
+
+FS.png
+size: 1988,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2020
+  rotate: true
+  xy: 1797, 315
+  size: 338, 189
+  orig: 338, 189
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 1797, 104
+  size: 209, 118
+  orig: 209, 118
+  offset: 0, 0
+  index: -1
+bg12
+  rotate: false
+  xy: 1540, 23
+  size: 154, 86
+  orig: 156, 88
+  offset: 1, 1
+  index: -1
+earth
+  rotate: false
+  xy: 861, 2
+  size: 677, 651
+  orig: 708, 681
+  offset: 17, 11
+  index: -1
+earth2
+  rotate: false
+  xy: 2, 79
+  size: 857, 574
+  orig: 857, 574
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 2, 23
+  size: 81, 54
+  orig: 84, 57
+  offset: 2, 1
+  index: -1
+fire2
+  rotate: true
+  xy: 1917, 232
+  size: 81, 53
+  orig: 84, 56
+  offset: 2, 1
+  index: -1
+rocket
+  rotate: true
+  xy: 1540, 111
+  size: 542, 255
+  orig: 544, 257
+  offset: 1, 1
+  index: -1

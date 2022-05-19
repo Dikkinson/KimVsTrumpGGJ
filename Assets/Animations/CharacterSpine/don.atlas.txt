@@ -1,0 +1,55 @@
+
+don.png
+size: 254,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+don_ass
+  rotate: false
+  xy: 201, 22
+  size: 51, 33
+  orig: 56, 35
+  offset: 3, 1
+  index: -1
+don_body
+  rotate: true
+  xy: 118, 37
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+don_hand
+  rotate: true
+  xy: 201, 57
+  size: 51, 38
+  orig: 53, 40
+  offset: 1, 1
+  index: -1
+don_head
+  rotate: true
+  xy: 2, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+don_lable
+  rotate: false
+  xy: 198, 3
+  size: 21, 17
+  orig: 23, 19
+  offset: 1, 1
+  index: -1
+don_leg_l
+  rotate: false
+  xy: 118, 2
+  size: 33, 33
+  orig: 35, 36
+  offset: 1, 2
+  index: -1
+don_leg_r
+  rotate: false
+  xy: 153, 3
+  size: 43, 32
+  orig: 45, 35
+  offset: 1, 2
+  index: -1

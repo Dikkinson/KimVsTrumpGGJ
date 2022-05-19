@@ -1,0 +1,48 @@
+
+kim.png
+size: 169,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kim_ass
+  rotate: true
+  xy: 134, 8
+  size: 51, 33
+  orig: 56, 35
+  offset: 3, 1
+  index: -1
+kim_body
+  rotate: false
+  xy: 94, 61
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+kim_hand
+  rotate: true
+  xy: 94, 8
+  size: 51, 38
+  orig: 53, 40
+  offset: 1, 1
+  index: -1
+kim_head
+  rotate: true
+  xy: 2, 47
+  size: 95, 90
+  orig: 98, 92
+  offset: 2, 1
+  index: -1
+kim_leg_l
+  rotate: false
+  xy: 36, 12
+  size: 33, 33
+  orig: 35, 36
+  offset: 1, 2
+  index: -1
+kim_leg_r
+  rotate: true
+  xy: 2, 2
+  size: 43, 32
+  orig: 45, 35
+  offset: 1, 2
+  index: -1

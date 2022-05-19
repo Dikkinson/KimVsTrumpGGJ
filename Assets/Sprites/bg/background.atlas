@@ -1,0 +1,41 @@
+
+background.png
+size: 1744,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dawn_transporter
+  rotate: false
+  xy: 2, 2
+  size: 1379, 95
+  orig: 1492, 102
+  offset: 111, 1
+  index: -1
+down_transporter_1
+  rotate: false
+  xy: 1419, 13
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: true
+  xy: 1554, 17
+  size: 80, 45
+  orig: 82, 47
+  offset: 1, 1
+  index: -1
+line_2
+  rotate: true
+  xy: 1383, 12
+  size: 85, 34
+  orig: 87, 36
+  offset: 1, 1
+  index: -1
+vint
+  rotate: true
+  xy: 1601, 33
+  size: 64, 141
+  orig: 66, 144
+  offset: 1, 1
+  index: -1
